@@ -1,6 +1,6 @@
-#Iniciar projeto
+# Iniciar projeto
 
-##Back-End (API)
+## Back-End (API)
 Para iniciar o projeto, o primeiro passo é iniciar a api no docker, para isso, no cmd, navegue até o diretório restaurantes_api-master e rode os comandos abaixo na sequencia:
 
 `docker-compose build`
@@ -9,7 +9,7 @@ Para iniciar o projeto, o primeiro passo é iniciar a api no docker, para isso, 
 
 A api ira subir na porta http://localhost:8000/
 
-##Front-End
+## Front-End
 Para iniciar o front-end, no cmd, navegue até o diretório frontend e rode os comandos abaixo:
 
 `npm install`
